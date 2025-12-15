@@ -1,6 +1,6 @@
 
 ### Este documento contiene una síntesis entre prompts para IA (DeepSeek) y ajustes manuales.
-### Se incluyen también Notas de la IA sobre
+### Se incluyen también Notas de la IA sobre próximos pasos a implementar respecto a la BD
 
 
 ## Tabla base de trabajadores
