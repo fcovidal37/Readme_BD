@@ -2,7 +2,7 @@
 ### Este documento contiene una síntesis entre prompts para IA (DeepSeek) y ajustes manuales.
 ### Se incluyen también Notas de la IA sobre próximos pasos a implementar respecto a la BD
 
-### IMPORTANTE: LEER EN VS CODE, PARA MEJOR LEGIBILIDAD Y COMPRENSIÓN
+### IMPORTANTE: LEER EN VS CODE O EN FORMATO "CODE" DENTRO DEL REPOSITORIO, PARA MEJOR LEGIBILIDAD Y COMPRENSIÓN
 
 
 ## Tabla base de trabajadores
